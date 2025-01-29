@@ -6,5 +6,6 @@ The game is a single-player, first-person simulation story game that portrays th
 
 // **Made in Unity, using Universal Render Pipeline**
 
-Project & Build Link = https://drive.google.com/drive/folders/1PL958SrvIWmNB3vO31ee8ScxOr3MqV6t?usp=sharing \
+Web Link = https://eljhey.itch.io/mrs-geronimos-journey
+Raw Project & Build = https://drive.google.com/drive/folders/1PL958SrvIWmNB3vO31ee8ScxOr3MqV6t?usp=sharing \
 Screenshots = https://www.artstation.com/artwork/x3qXVr
